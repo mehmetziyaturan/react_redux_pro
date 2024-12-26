@@ -1,9 +1,9 @@
-# React + Vite
+# React Redux Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modal structure created, opening and closing redux. 
+Making additions, deletions and updates
+Filtering and sorting features
+Tailwind css used
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# react_redux_pro
+# Preview
+![react](https://github.com/user-attachments/assets/cc66ebe9-e083-4050-96be-b19b2a8bef1e)
